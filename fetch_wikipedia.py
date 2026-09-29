@@ -14,7 +14,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-UA = "open-horse-data/1.0 (+https://github.com/jon-makinen/open-horse-data)"
+UA = "open-horse-data/1.0 (+https://github.com/Sheep-Meadow-Road-Games/open-horse-data)"
 API = "https://en.wikipedia.org/w/api.php"
 INFOBOX_START = re.compile(r"\{\{\s*Infobox racehorse", re.I)
 PARAM = re.compile(r"^\s*\|\s*([A-Za-z0-9_ ]+?)\s*=\s*(.*?)\s*$", re.M)

@@ -15,7 +15,7 @@ import pathlib
 import sys
 import urllib.request
 
-UA = "open-horse-data/1.0 (+https://github.com/jon-makinen/open-horse-data)"
+UA = "open-horse-data/1.0 (+https://github.com/Sheep-Meadow-Road-Games/open-horse-data)"
 DOWNLOAD = ("https://www.kaggle.com/api/v1/datasets/download/"
             "deltaromeo/horse-racing-results-ukireland-2015-2025")
 

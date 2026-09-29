@@ -28,7 +28,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-UA = "open-horse-data/1.0 (+https://github.com/jon-makinen/open-horse-data)"
+UA = "open-horse-data/1.0 (+https://github.com/Sheep-Meadow-Road-Games/open-horse-data)"
 BASE = "https://racing.hkjc.com/en-us/local/information/"
 INDEX = BASE + "selecthorsebychar?ordertype="
 HORSE = BASE + "horse?horseid="

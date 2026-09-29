@@ -17,7 +17,7 @@ import sys
 import urllib.parse
 import urllib.request
 
-UA = "open-horse-data/1.0 (+https://github.com/jon-makinen/open-horse-data)"
+UA = "open-horse-data/1.0 (+https://github.com/Sheep-Meadow-Road-Games/open-horse-data)"
 DOWNLOAD = "https://www.kaggle.com/api/v1/datasets/download/ayuser/horse-racing-in-japan"
 WDQS = "https://query.wikidata.org/sparql"
 
